@@ -1,1 +1,1 @@
-# trytrae
+# The purpose of this project is to try the capabilities of Trae IDE.
